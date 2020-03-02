@@ -35,11 +35,9 @@ public class VariablesAndDataTypes {
 	 * to a double called dbl. This works perfectly fine as you are converting a 32-bit data into a 64-bit data.
 	 * This is called implicit casting. However, if you tried to fit larger data into smaller data, like this:
 	 */
-	try {
-		int integer = d;
-	} catch (UserException ex) {
-		System.out.println("Can't implicity convert from double to int.");
-	}
+
+	int integer = d;
+	
 	
 	
 	/*
