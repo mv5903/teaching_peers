@@ -16,6 +16,7 @@ public class SquareRootOfProduct {
 		System.out.println("Enter another number: ");
 		double b = kbd.nextDouble();
 		System.out.println(sqrt(a, b));
+		kbd.close();
 	}
 	
 	public static double sqrt(double a, double b) {
