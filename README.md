@@ -2,8 +2,7 @@
 
 ### teaching_peers
 These are the programs/information that I use to teach my peers. More will be put up as soon as I can.
-Use the [questions](https://github.com/mv5903/teaching_peers/tree/master/questions) folder to view the questions. The corresponding answers can be found in their respective
-Use the [src](https://github.com/mv5903/teaching_peers/tree/master/src) folder.
+Use the [questions](https://github.com/mv5903/teaching_peers/tree/master/questions) folder to view the questions. The corresponding answers can be found in their respective [src](https://github.com/mv5903/teaching_peers/tree/master/src) folder.
 
 Additionally, tutorial files have been moved under teaching_peers to the [gettingIntoACPS](https://github.com/mv5903/teaching_peers/tree/master/src/gettingIntoAPCS) folder.
 
