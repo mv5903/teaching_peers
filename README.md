@@ -1,4 +1,4 @@
-#This Repository is Dedicated to Teaching my Peers Java in Preperation to Skip Intro To Computer Science and go Directly into APCSA
+# This Repository is Dedicated to Teaching my Peers Java in Preperation to Skip Intro To Computer Science and go Directly into APCSA
 
 ### teaching_peers
 These are the programs/information that I use to teach my peers. More will be put up as soon as I can.
