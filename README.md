@@ -1,6 +1,6 @@
 # teaching_peers
 These are the programs/information that I use to teach my peers. More will be put up as soon as I can.
-Use the src file to view the code.
+Use the [src](https://github.com/mv5903/teaching_peers/tree/master/src) file to view the code.
 
 Additionally, tutorial files have been moved under teaching_peers to the [gettingIntoACPS](https://github.com/mv5903/teaching_peers/tree/master/src/gettingIntoAPCS) folder.
 
