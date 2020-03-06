@@ -36,7 +36,7 @@ public class VariablesAndDataTypes {
 	 * This is called implicit casting. However, if you tried to fit larger data into smaller data, like this:
 	 */
 
-	int integer = d;
+	//int integer = d;
 	
 	
 	
