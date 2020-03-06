@@ -2,6 +2,14 @@ package projects7;
 
 import java.util.Scanner;
 
+/*
+ * Have the user enter a first and last name as one String. 
+ * Not separate Strings, otherwise that’s cheating :). 
+ * Write this program that will get the first name in the 
+ * String and print it out. See the projects6.docx for an
+ * example input/output table.
+ */
+
 public class FirstName {
 
 	public static void main(String[] args) {

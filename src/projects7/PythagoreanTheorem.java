@@ -2,6 +2,12 @@ package projects7;
 
 import java.util.Scanner;
 
+/*
+ * Write a program that takes an “a” value, a “b” value. 
+ * These are the two legs of a right triangle. Use the
+ * Pythagorean Theorem to find the hypotenuse.
+ */
+
 public class PythagoreanTheorem {
 
 	public static void main(String[] args) {	
