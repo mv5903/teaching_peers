@@ -15,7 +15,6 @@ public class RemoveLetters {
 			}
 		}
 		System.out.println(newString);
-
 	}
 
 }
