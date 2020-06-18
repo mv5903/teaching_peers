@@ -10,7 +10,6 @@ public class Projects9 {
 		questionThree();
 		questionFour();
 		questionFive();
-
 	}
 	public static void questionOne() {
 		double a = Math.random()*301;
