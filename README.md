@@ -7,6 +7,6 @@ Use the [questions](https://github.com/mv5903/teaching_peers/tree/master/questio
 Additionally, tutorial files have been moved under teaching_peers to the [gettingIntoACPS](https://github.com/mv5903/teaching_peers/tree/master/src/gettingIntoAPCS) folder.
 
 #### I will put this in the readme (from StringClass.java)
-See [here](https://www.ssec.wisc.edu/~tomw/java/unicode.html) for a Unicode Chart.
+See [here](https://en.wikipedia.org/wiki/List_of_Unicode_characters) for a Unicode Chart.
 Use the decimal values when referring to the order based upon unicode values.
 
